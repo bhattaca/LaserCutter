@@ -1,0 +1,42 @@
+{
+  "Edges": {
+    "24807479": {
+      "Type": "CircularArc",
+      "Vertices": [
+        100,
+        200
+      ],
+      "Center": {
+        "X": 15.0,
+        "Y": 15.0
+      },
+      "ClockwiseFrom": 200
+    },
+    "24807480": {
+      "Type": "CircularArc",
+      "Vertices": [
+        200,
+        100
+      ],
+      "Center": {
+        "X": 15.0,
+        "Y": 15.0
+      },
+      "ClockwiseFrom": 100
+    }
+  },
+  "Vertices": {
+    "100": {
+      "Position": {
+        "X": 10.0,
+        "Y": 15.0
+      }
+    },
+    "200": {
+      "Position": {
+        "X": 20.0,
+        "Y": 15.0
+      }
+    }
+  }
+}
